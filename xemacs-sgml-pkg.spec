@@ -2,12 +2,12 @@ Summary:	SGML/Linuxdoc-SGML editing mode macros
 Summary(pl):	Makra do tryb edycji dokumentów SGML/Linuxdoc-SGML
 Name:		xemacs-sgml-pkg
 %define 	srcname	sgml
-Version:	1.08
+Version:	1.10
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	bdadf462489fa1540cc56d1c561aaa54
+# Source0-md5:	ab80262877e3547dfb97e80a0a778e09
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
