@@ -2,7 +2,7 @@ Summary:	SGML/Linuxdoc-SGML editing
 Summary(pl):	SGML/Linuxdoc-SGML editing
 Name:		xemacs-sgml-pkg
 %define 	srcname	sgml
-Version:	1.06
+Version:	1.07
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
