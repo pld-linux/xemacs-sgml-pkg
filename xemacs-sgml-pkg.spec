@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 SGML/Linuxdoc-SGML editing mode.
 
-%description -l pl 
+%description -l pl
 Makra do tryb edycji dokumentów SGML/Linuxdoc-SGML.
 
 %prep
@@ -29,7 +29,7 @@ install -d $RPM_BUILD_ROOT%{_datadir}/xemacs-packages
 
 cp -a * $RPM_BUILD_ROOT%{_datadir}/xemacs-packages
 
-gzip -9nf lisp/sgml/ChangeLog 
+gzip -9nf lisp/sgml/ChangeLog
 
 %clean
 rm -rf $RPM_BUILD_ROOT
