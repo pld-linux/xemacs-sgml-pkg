@@ -1,5 +1,5 @@
 Summary:	SGML/Linuxdoc-SGML editing mode macros
-Summary(pl):	Makra do tryb edycji dokumentów SGML/Linuxdoc-SGML
+Summary(pl.UTF-8):   Makra do tryb edycji dokumentÃ³w SGML/Linuxdoc-SGML
 Name:		xemacs-sgml-pkg
 %define 	srcname	sgml
 Version:	1.10
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 SGML/Linuxdoc-SGML editing mode.
 
-%description -l pl
-Makra do tryb edycji dokumentów SGML/Linuxdoc-SGML.
+%description -l pl.UTF-8
+Makra do tryb edycji dokumentÃ³w SGML/Linuxdoc-SGML.
 
 %prep
 %setup -q -c
