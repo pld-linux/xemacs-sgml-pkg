@@ -6,7 +6,7 @@ Version:	1.10
 Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
-Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
+Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
 # Source0-md5:	ab80262877e3547dfb97e80a0a778e09
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
